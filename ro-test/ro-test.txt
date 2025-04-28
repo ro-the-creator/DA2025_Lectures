@@ -1,0 +1,6 @@
+Hello. My name is Ro, or Rolando Mancilla-Rojas. I am an aspiring data
+analyst studying at The Marcy Lab School. This text is for practicing
+both terminal and git commands.
+
+Wish me luck.
+	- Ro
